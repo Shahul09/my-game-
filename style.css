@@ -32,7 +32,7 @@ body {
     100% { background-position-y: 100%; }
 } */
 
-.goat {
+.bike {
     position: absolute;
     width: 50px;
     height: 80px;
@@ -43,7 +43,7 @@ body {
     display: flex;
 }
 
-.goat img {
+.bike img {
     transform: scale(2);
 }
 
@@ -54,13 +54,13 @@ body {
     top: -50px; /* Start off screen */
 }
 
-.leaf {
+.fuel {
     /* background-color: gold; */
     border-radius: 50%;
     display: flex;
 }
 
-.bike {
+.car {
     /* background-color: red; */
     border-radius: 10%;
     display: flex;
